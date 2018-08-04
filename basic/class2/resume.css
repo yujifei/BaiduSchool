@@ -1,0 +1,100 @@
+#title {
+    font-size: 30pt;
+    line-height: 80pt;
+    color: red;
+    font-family: '华文行楷';
+    text-align: center;
+    text-shadow: 10px 10px 10px lightyellow;
+}
+
+body {
+    background: gray;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+em {
+    font-style: normal;
+    text-decoration: underline lightpink;
+}
+
+.subtitle {
+    line-height: 60px;
+    padding-top: 10px;
+}
+
+.page {
+    background: white;
+    width: 720px;
+    height: 800px;
+    align-self: center;
+    box-shadow: darkgray 3px;
+}
+
+.eduRow {
+    line-height: 30px;
+}
+
+#info {
+    width: 100%;
+}
+
+#cont {
+    float: left;
+    margin-left: 10px;
+}
+
+.contact {
+    font-size: 20px;
+    line-height: 40px;
+    margin: 0;
+}
+
+#portrait {
+    width: 237px;
+    height: 150px;
+    float: right;
+    margin-right: 10px;
+}
+
+#edu {
+    clear: both;
+    margin: 40px 10px 10px 10px;
+}
+
+#work {
+    margin-left: 10px;
+}
+
+#eduHead {
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    text-indent: 20pt;
+}
+
+#eduHead :first-child {
+    text-indent: 0pt;
+}
+
+.tm {
+    text-decoration-style: wavy;
+    font-weight: 900;
+    font-style: italic;
+}
+
+.pro {
+    text-indent: 20pt;
+}
+
+.sch {
+    text-shadow: red 5px;
+    text-indent: 20pt;
+}
+
+.job {
+    margin-left: 20px;
+    line-height: 30px;
+}
