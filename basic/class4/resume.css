@@ -1,0 +1,137 @@
+#title {
+    font-size: 30pt;
+    line-height: 80pt;
+    color: red;
+    font-family: '华文行楷';
+    text-align: center;
+    text-shadow: 10px 10px 10px lightyellow;
+}
+
+body {
+    background: gray;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+em {
+    font-style: normal;
+    text-decoration: underline lightpink;
+}
+
+.subtitle {
+    line-height: 60px;
+    padding-top: 10px;
+}
+
+.page {
+    background-image: url('pattern3.jpg');
+    background-repeat: repeat;
+    width: 720px;
+    height: 800px;
+}
+
+.eduRow {
+    line-height: 30px;
+}
+
+#info {
+    width: 100%;
+}
+
+#cont {
+    float: left;
+    margin-left: 10px;
+    border-style: solid dashed dotted double;
+    border-width: 5px;
+    border-color: red;
+}
+
+.contact {
+    font-size: 20px;
+    line-height: 40px;
+    margin: 0;
+}
+
+#portrait {
+    width: 237px;
+    height: 150px;
+    float: right;
+    margin-right: 10px;
+    border-style: groove ridge inset outset;
+    border-width: 4px;
+    border-color: green;
+}
+
+#edu {
+    clear: both;
+    margin: 40px 10px 10px 10px;
+    background-image: url('pattern2.jpg');
+    background-repeat: repeat-x;
+    background-position: center;
+}
+
+#work {
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: darkolivegreen;
+}
+
+#eduHead {
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    text-indent: 20pt;
+}
+
+#eduHead :first-child {
+    text-indent: 0pt;
+}
+
+.tm {
+    text-decoration-style: wavy;
+    font-weight: 900;
+    font-style: italic;
+}
+
+.pro {
+    text-indent: 20pt;
+}
+
+.sch {
+    text-shadow: red 5px;
+    text-indent: 20pt;
+}
+
+.job {
+    margin-left: 20px;
+    line-height: 30px;
+    list-style-type: square;
+}
+
+ul :last-child {
+    list-style-type: circle;
+}
+
+ul:first-child {
+    list-style: url('list-icon.png') square inside;
+}
+
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: yellow;
+}
+
+a:hover {
+    color: green;
+}
+
+a:active {
+    color: blue;
+}
+
+`````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````` ssccccvvnggt
